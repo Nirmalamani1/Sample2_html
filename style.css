@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body
+{
+    background-image: linear-gradient(white,black);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+.card{
+
+    background-image: linear-gradient(red,yellow);
+    width: 500px;
+    padding: 25px;
+    border-radius: 10px;
+
+}
